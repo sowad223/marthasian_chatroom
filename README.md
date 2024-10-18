@@ -78,19 +78,19 @@ Before running the project, ensure you have the following installed:
 
 \`\`\`plaintext
 .
-├── app.py                 # Main Flask application
-├── static/                # Static files (CSS, Images, etc.)
+├── main.py                
+├── static/               
 │   ├── css/
-│   │   └── style.css      # Stylesheet for the application
+│   │   └── style.css      
 │   ├── images/
-│   │   ├── school.jpg     # School logo
-│   │   └── cartoon_logo.png  # Cartoon logo for Batch-2018
-├── templates/             # HTML templates
-│   ├── base.html          # Base template
-│   ├── home.html          # Homepage (Room creation/join)
-│   └── room.html          # Chat room page
-├── requirements.txt       # List of Python dependencies
-└── README.md              # This file
+│   │   ├── school.jpg     
+│   │   └── ani.webp  
+├── templates/            
+│   ├── base.html          
+│   ├── home.html         
+│   └── room.html         
+├── requirements.txt       
+└── README.md              
 \`\`\`
 
 ### Dependencies
