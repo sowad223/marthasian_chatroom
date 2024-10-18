@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    \`\`\`bash
-   git clone https://github.com/yourusername/saint-martha-chat-app.git
+   git clone https://github.com/sowad223/marthasian_chatroom.git
    cd saint-martha-chat-app
    \`\`\`
 
